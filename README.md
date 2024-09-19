@@ -11,12 +11,19 @@ Arch Linux offers customizable options and a minimalistic approach, with distrib
 Section 3: Basic Linux Commands
 
 ls: Lists files and directories.
+
 cd: Changes the current directory.
+
 pwd: Prints the current working directory.
+
 mkdir: Creates a new directory.
+
 cp: Copies files or directories.
+
 mv: Moves or renames files or directories.
+
 rm: Removes files or directories.
+
 sudo: Executes commands with superuser privileges.
 
 
